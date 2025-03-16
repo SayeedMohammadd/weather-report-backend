@@ -1,0 +1,24 @@
+{
+  "name": "weather-report-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.10.0",
+    "openai": "^4.87.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
